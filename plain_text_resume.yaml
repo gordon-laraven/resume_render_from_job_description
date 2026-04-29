@@ -1,75 +1,341 @@
 personal_information:
-  name: [Name]
-  surname: [Surname]
-  date_of_birth: "[DD/MM/YYYY]"
-  country: [Country]
-  city: [City]
-  address: [Address]
-  phone_prefix: "[+Country Code]"
-  phone: "[Phone Number]"
-  email: [Email Address]
-  github: [GitHub URL]
-  linkedin: [LinkedIn URL]
+  name: La Raven
+  surname: Gordon
+  date_of_birth: "11/27/1997"
+  country: United States
+  city: Brooklyn
+  address: 67 Hanson PL
+  phone_prefix: "+1"
+  phone: "8482697402"
+  email: laraven.gordon@gmail.com
+  github: https://github.com/gordon-laraven
+  linkedin: https://www.linkedin.com/in/laraven-gordon/
 
 education_details:
-  - degree: [Degree Type]
-    university: [University Name]
-    gpa: "[GPA]"
-    graduation_year: "[Graduation Year]"
-    field_of_study: [Field of Study]
+  - degree: Bootcamp
+    university: Columbia Engineering
+    gpa: "N/A"
+    graduation_year: "2024"
+    field_of_study: Artificial Intelligence and Machine Learning
     exam:
-      [Course Name]: "[Grade]"
-      [Course Name]: "[Grade]"
-      [Course Name]: "[Grade]"
-  - degree: [Degree Type]
-    university: [University Name]
-    gpa: "[GPA]"
-    graduation_year: "[Graduation Year]"
-    field_of_study: [Field of Study]
+      programming_for_ai_python: "100/100"
+      preparing_data_with_pandas: "100/100"
+      sourcing_data_for_ai_projects: "100/100"
+      api_keys: "100/100"
+      exploring_data_through_visualizations: "100/100"
+      making_data_predictions_with_data: "100/100"
+      unsupervised_learning: "100/100"
+      supervised_learning_linear_regression: "100/100"
+      supervised_learning_classification: "100/100"
+      machine_learning_optimization: "100/100"
+      ai_ethics: "100/100"
+      neural_networks: "100/100"
+      deep_learning: "100/100"
+      natural_language_processing_nlp: "100/100"
+      transformers: "100/100"
+      emerging_topics_in_ai: "100/100"
+      langchain: "100/100"
+      prompt_engineering: "100/100"
+      output_parsers: "100/100"
+      agents: "100/100"
+      the_future_of_ai: "100/100"
+  - degree: bachelor of science
+    university: Rutgers University
+    gpa: "N/A"
+    graduation_year: "2022"
+    field_of_study: Biochemistry
     exam:
-      [Course Name]: "[Grade]"
-      [Course Name]: "[Grade]"
-      [Course Name]: "[Grade]"
+      basic_composition: "3.0/4.0"
+      introduction_to_communication_and_information: "2.5/4.0"
+      topics_in_communication_I: "4.0/4.0"
+      expository_writing_I: "3.5/4.0"
+      calculus_I: "4.0/4.0"
+      general_psychology: "2.0/4.0"
+      science_and_information_learning_community_I: "2.5/4.0"
+      science_and_information_learning_community_III: "4.0/4.0"
+      public_speaking: "3.5/4.0"
+      general_chemistry_recitation: "3.0/4.0"
+      general_chemistry: "3.0/4.0"
+      introduction_to_experimentation: "3.5/4.0"
+      research_in_disciplines: "4.0/4.0"
+      introduction_to_sociology: "3.0/4.0"
+      basic_statistics_for_research: "2.5/4.0"
+      general_biology_I: "2.0/4.0"
+      general_biology_II: "N/A"
+      calculus_II_for_math_physics: "N/A"
+      introduction_to_philosophy: "3.0/4.0"
+      theater_appreciation: "4.0/4.0"
+      principles_and_applications_of_microeconomics: "3.0/4.0"
+      biology_research_laboratory: "2.0/4.0"
+      genetics: "2.0/4.0"
+      bioethics: "4.0/4.0"
+      nature_of_politics: "4.0/4.0"
+      analytical_chemistry: "N/A"
+      ritual_myth_and_propaganda: "4.0/4.0"
+      general_physics_laboratory: "2.5/4.0"
+      integrated_physiology: "N/A"
+      organic_chemistry: "2.0/4.0"
+      organic_chemistry_laboratory: "N/A"
+      reproduction_and_developmental_toxicology: "2.5/4.0"
+      experimental_biochemistry: "2.0/4.0"
+      medicinal_plants: "3.0/4.0"
+      plants_and_human_health: "3.0/4.0"
+      biochemistry_communication: "N/A"
+      general_physics: "N/A"
+      general_biochemistry: "N/A"
+      principles_of_biophysical_chemistry: "N/A"
 
 experience_details:
-  - position: [Job Title]
-    company: [Company Name]
-    employment_period: "[MM/YYYY - MM/YYYY or Present]"
-    location: [Location]
-    industry: [Industry]
+  - position: ai_trainer_and_auditor
+    company: self_employed
+    employment_period: "12/2023 - present"
+    location: remote
+    industry: artificial_intelligence
     key_responsibilities:
-      - [Responsibility Description]
-      - [Responsibility Description]
-      - [Responsibility Description]
+      - responsibility_1: develop train and audit ai models including chatgpt claude deepai and astoria to ensure accuracy scalability and business impact
+      - responsibility_2: design training programs and evaluation frameworks for enterprise ai adoption
+      - responsibility_3: collaborate with executives and technical teams to optimize ai workflows and ensure compliance and ethical use
+      - responsibility_4: provide actionable recommendations to improve ai model performance and organizational adoption
     skills_acquired:
-      - [Skill]
-      - [Skill]
-      - [Skill]
+      - ai_model_training
+      - ai_auditing
+      - evaluation_frameworks
+      - compliance_and_ethics
+      - stakeholder_collaboration
 
-    - position: [Job Title]
-    company: [Company Name]
-    employment_period: "[MM/YYYY - MM/YYYY or Present]"
-    location: [Location]
-    industry: [Industry]
+  - position: smsb_ai_implementation_specialist
+    company: self_employed
+    employment_period: "12/2023 - present"
+    location: remote
+    industry: artificial_intelligence
     key_responsibilities:
-      - [Responsibility Description]
-      - [Responsibility Description]
-      - [Responsibility Description]
+      - responsibility_1: integrate enterprise grade ai solutions tailored to small and mid sized business operations
+      - responsibility_2: conduct business readiness assessments select appropriate ai models and oversee full implementation
+      - responsibility_3: drive adoption initiatives across analytics customer service and internal automation processes
+      - responsibility_4: monitor and evaluate ai solution impact to optimize efficiency and roi
     skills_acquired:
-      - [Skill]
-      - [Skill]
-      - [Skill]
+      - ai_implementation
+      - business_readiness_assessment
+      - process_automation
+      - analytics
+      - roi_optimization
+  experience_details:
+  - position: field_sales_manager
+    company: vector_marketing_corporation
+    employment_period: "05/2022 - 10/2022"
+    location: new_brunswick_nj
+    industry: sales
+    key_responsibilities:
+      - responsibility_1: develop sales strategies negotiate and close profitable sales
+      - responsibility_2: write sales contracts for orders obtained and submitted orders for processing
+      - responsibility_3: schedule appointments with clients to demonstrate cutcos various products
+    skills_acquired:
+      - sales_strategy
+      - contract_negotiation
+      - client_management
+
+  - position: branch_manager
+    company: vector_marketing_corporation
+    employment_period: "01/2021 - 05/2022"
+    location: new_brunswick_nj
+    industry: sales
+    key_responsibilities:
+      - responsibility_1: screened interviewed and made hiring decisions for sales positions
+      - responsibility_2: trained and managed a team of 50 plus representatives and social media recruiting assistants
+      - responsibility_3: compiled and implemented a business plan for summer campaign
+    skills_acquired:
+      - team_management
+      - recruiting
+      - business_planning
+
+  - position: assistant_manager
+    company: vector_marketing_corporation
+    employment_period: "10/2020 - 01/2021"
+    location: new_brunswick_nj
+    industry: sales
+    key_responsibilities:
+      - responsibility_1: trained and developed sales representatives in both in and outside of the field
+      - responsibility_2: recruited and interviewed applicants for hire
+      - responsibility_3: personally coached individuals for both career and personal success
+    skills_acquired:
+      - sales_training
+      - recruiting
+      - coaching_and_mentoring
+
+  - position: intermediate_tutor
+    company: the_princeton_review_tutor_com
+    employment_period: "10/2022 - 10/2023"
+    location: new_york_ny_remote
+    industry: education
+    key_responsibilities:
+      - responsibility_1: analyzed and assisted students with problem areas across various subjects and grade levels
+      - responsibility_2: enhanced teaching and training materials for simple understanding
+      - responsibility_3: challenged and coached students of various academic levels to become better students and individuals
+    skills_acquired:
+      - tutoring
+      - curriculum_development
+      - academic_coaching
+  experience_details:
+  - position: covid_19_pre_procedural_secretary
+    company: saint_peters_university_hospital
+    employment_period: "05/2021 - 05/2022"
+    location: new_brunswick_nj
+    industry: healthcare
+    key_responsibilities:
+      - responsibility_1: orchestrated medical treatment contracts with patients for federal mandated covid 19 pre procedural testing
+      - responsibility_2: acted as patient liaison between departments until date of admission into hospital
+      - responsibility_3: ensured the safety of patients and hospital staff through creating and maintaining safe environments
+    skills_acquired:
+      - patient_liaison
+      - medical_administration
+      - health_and_safety_compliance
+
+  - position: library_assistant
+    company: stephan_and_lucy_chang_science_library
+    employment_period: "09/2016 - 05/2020"
+    location: new_brunswick_nj
+    industry: education
+    key_responsibilities:
+      - responsibility_1: managed the service desk including classrooms and group study and conference rooms
+      - responsibility_2: guided and consulted library patrons staff and guests with all matters
+      - responsibility_3: trained new and current assistants and workers
+    skills_acquired:
+      - customer_service
+      - facility_management
+      - staff_training
+
+  - position: writing_tutor
+    company: livingston_writing_center
+    employment_period: "02/2018 - 04/2018"
+    location: piscataway_nj
+    industry: education
+    key_responsibilities:
+      - responsibility_1: analyzed and assisted student problem and strength areas
+      - responsibility_2: developed teaching and training materials
+      - responsibility_3: coached students of various writing levels to become better writers
+    skills_acquired:
+      - writing_instruction
+      - curriculum_development
+      - academic_coaching
+  volunteer_and_leadership_extracurriculars:
+  - position: laboratory_assistant
+    organization: rutgers_plant_biology_department
+    period: "09/2023 - present"
+    location: new_brunswick_nj
+    industry: science_research
+    key_responsibilities:
+      - responsibility_1: execute sample preparation for nutritional and mineral analysis
+      - responsibility_2: analyze and interpret data for science storytelling
+      - responsibility_3: perform greenhouse and laboratory safety for a clean and productive work environment
+    skills_acquired:
+      - sample_preparation
+      - data_analysis
+      - laboratory_safety
+
+  - position: leadership_academy_candidate
+    organization: vector_marketing_corporation
+    period: "11/2020 - present"
+    location: new_brunswick_nj_remote
+    industry: leadership_development
+    key_responsibilities:
+      - responsibility_1: analyze and practice mathew kellys laws of leadership
+      - responsibility_2: enforce dave ramseys financial freedom course
+      - responsibility_3: attend annual leadership conferences and retreats
+    skills_acquired:
+      - leadership_development
+      - financial_literacy
+      - professional_development
+
+  - position: chemical_demonstration_assistant
+    organization: rutgers_chemistry_department
+    period: "09/2019 - 09/2019"
+    location: clinton_nj
+    industry: science_education
+    key_responsibilities:
+      - responsibility_1: performed large demonstration experiments that include titrations back titrations combustion reactions acid base reactions and explosions
+      - responsibility_2: guided and conducted several hands on chemical demonstrations with an audience of individuals of all ages
+      - responsibility_3: prepared solutions glassware and reactions for elaborate experiments that include titrations back titrations combustion reactions acid base reactions and explosions
+      - responsibility_4: discussed and answered questions regarding scientific phenomena
+    skills_acquired:
+      - chemical_demonstrations
+      - public_engagement
+      - experiment_preparation
+      - science_communication
+
+  - position: undergraduate_volunteer
+    organization: rutgers_plant_biology_department
+    period: "09/2019 - 09/2019"
+    location: clinton_nj
+    industry: science_research
+    key_responsibilities:
+      - responsibility_1: assisted with the distillation of catnip to develop an essential oil for the us air force
+      - responsibility_2: prepared fresh samples to be heat dried for analysis
+    skills_acquired:
+      - distillation
+      - sample_preparation
+      - research_assistance
+
+  - position: life_science_and_pre_med_student_ambassador
+    organization: rutgers_life_science_department
+    period: "04/2017 - 05/2019"
+    location: piscataway_nj
+    industry: education
+    key_responsibilities:
+      - responsibility_1: lead groups of perspective rutgers life science students on research lab tours
+      - responsibility_2: promoted pre health programs associated with the university tailored to the individuals needs
+      - responsibility_3: actively participated on in person student and parent discussion panels
+    skills_acquired:
+      - student_recruitment
+      - public_speaking
+      - program_promotion
+
+  - position: two_year_member_completion
+    organization: rutgers_department_of_leadership_and_experiential_learning
+    period: "08/2016 - 05/2018"
+    location: new_brunswick_nj
+    industry: leadership_development
+    key_responsibilities:
+      - responsibility_1: created a project cluster called de stress and progress for community members to take a break from their course studies and focus on their mental and physical health
+      - responsibility_2: studied leadership communication and public speaking with a diverse group of leaders
+      - responsibility_3: travelled to cnn and the united nations to discuss the leadership of tomorrow
+    skills_acquired:
+      - project_management
+      - leadership
+      - public_speaking
+      - community_engagement
+
+  - position: first_year_fellowship
+    organization: rutgers_department_of_leadership_and_experiential_learning
+    period: "12/2016 - 05/2017"
+    location: new_brunswick_nj
+    industry: leadership_development
+    key_responsibilities:
+      - responsibility_1: created a social change project called ru eating healthy fighting the freshman 15 to gather campus nutrition statistics and make first year students aware of the healthy nutrients available on campus for better decision making
+    skills_acquired:
+      - social_change_advocacy
+      - data_collection
+      - health_awareness_promotion
 
 projects:
-  - name: [Project Name]
-    description: [Project Description]
-    link: "[Project URL]"
-  - name: [Project Name]
-    description: [Project Description]
-    link: "[Project URL]"
-  - name: [Project Name]
-    description: [Project Description]
-    link: "[Project URL]"
+  - name: olympic_swimming_analysis
+    description: processed 100 plus years of olympic data and implemented forecasting and statistical modeling using python pandas prophet numpy and data visualization
+    link: "https://github.com/kkuria1/Olympic-swimming-analysis"
+  
+  - name: name: Relocation Insights
+    description: Built conversational AI with 95% user satisfaction using LangChain and Google Gen AI. Integrated real-time data from multiple APIs. Developed scalable architecture. Technologies: Python, LangChain, Google Gen AI, Streamlit, APIs.
+    link: "https://github.com/dmmonjur/Final-project"
+  
+  - name: Banking Interface System
+    description: Engineered secure transaction system with error handling and conversational flows. Technologies: Python, Financial APIs, ML Models, Dialog Flow.
+    link: "https://github.com/gordon-laraven/customer_banking"
+  
+  - name: Indigenous Vegetables Research
+    description: Led nutritional analysis, built data pipelines, and created educational materials. Technologies: Analytical Chemistry, Data Analysis, MS Excel.
+    link: "https://storytellinglab.rutgers.edu/amaranth/"
+  
+  - name: Obesity Classification System
+    description: Built ML model analyzing health factors. Achieved high accuracy in prediction. Technologies: Python, Jupyter, Machine Learning Libraries.
+    link: "https://github.com/gordon-laraven/diabetes_project_2"
 
 achievements:
   - name: [Achievement Title]
